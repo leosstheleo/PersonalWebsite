@@ -1,2 +1,2 @@
 # PersonalWebsite
-//Personal site should have a home, about, and portfolio page.
+//My Personal site has a home, about, resume, and contact page.
